@@ -1,7 +1,7 @@
-#include "Simple_window.h"
-#include "Graph.h"
+#include "../../week02-06/GUI/Simple_window.h"
+#include "../../week02-06/GUI/Graph.h"
 
-//g++ drill.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o main `fltk-config --ldflags --use-images`
+//g++ drill.cpp ../../week02-06/GUI/Graph.cpp ../../week02-06/GUI/Window.cpp ../../week02-06/GUI/GUI.cpp ../../week02-06/GUI/Simple_window.cpp -o main `fltk-config --ldflags --use-images`
 int main()
 {
 
